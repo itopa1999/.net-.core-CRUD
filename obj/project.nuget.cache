@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eTmObtQK7OHdJOMx8XPlF276l1dwJ5P/QUM3fOuaCMuPbXv9Mo0qJFGP6+qvPnxQXpdsHKSxW6PhChxh6VvgUQ==",
+  "dgSpecHash": "2PQ8god8HbHeUVgGj9B5sJuSrgd86sffgDs1SvPlp8rdzKyZHySySSrFlJrYb6QTNCh7HSYM4ml/mt4iE34xpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\lucky_test_api.csproj",
+  "projectFilePath": "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\lucky_test_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FMY-381\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\FMY-381\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

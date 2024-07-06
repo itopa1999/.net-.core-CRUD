@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\lucky_test_api.csproj": {}
+    "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\lucky_test_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\lucky_test_api.csproj": {
+    "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\lucky_test_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\lucky_test_api.csproj",
+        "projectUniqueName": "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\lucky_test_api.csproj",
         "projectName": "lucky_test_api",
-        "projectPath": "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\lucky_test_api.csproj",
+        "projectPath": "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\lucky_test_api.csproj",
         "packagesPath": "C:\\Users\\FMY-381\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FMY-381\\Desktop\\lucky_test_api\\obj\\",
+        "outputPath": "C:\\Users\\FMY-381\\Desktop\\projects\\lucky_test_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FMY-381\\AppData\\Roaming\\NuGet\\NuGet.Config"
